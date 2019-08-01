@@ -53,6 +53,7 @@ end
 
 
 def apply_clearance(cart)
+  binding.pry
   # code here
 end
 
